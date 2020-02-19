@@ -23,11 +23,6 @@ body {
   padding: 0;
 }
 
-.img-flex {
-  display: block;
-  width: 100%;
-}
-
 .watermelon {
   background-color: #e97065
 }
@@ -38,10 +33,6 @@ body {
 
 .persimmon {
   background-color: #e86033
-}
-
-.unit {
-  width: 100%;
 }
 
 @media only screen and (min-width: 25em) {
