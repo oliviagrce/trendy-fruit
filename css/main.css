@@ -10,8 +10,6 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
-
-  font-family:
 }
 
 *, *::before, *::after {
@@ -33,16 +31,4 @@ body {
 
 .persimmon {
   background-color: #e86033
-}
-
-@media only screen and (min-width: 25em) {
-
-}
-
-@media only screen and (min-width: 38em) {
-
-}
-
-@media only screen and (min-width: 60em) {
-
 }
